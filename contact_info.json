@@ -1,0 +1,59 @@
+{
+    "address1": {
+        "value": "3755 Grand Mesa Dr",
+        "required": true
+    },
+    "address2": {
+        "value": "Unit/Apt",
+        "required": false
+    },
+    "city": {
+        "value": "Montrose",
+        "required": true
+    },
+    "country": {
+        "value": "US",
+        "required": true,
+        "options": []   
+    },
+    "postal_code": {
+        "value": "81403",
+        "required": true  
+    },
+    "state": {
+        "value": "WA",
+        "required": true
+    },
+    "email": {
+        "value": "rustybroussard63@gmail.com",
+        "required": true  
+    },
+    "fax": {
+        "value": "+1.0000000000",
+        "required": false   
+    },
+    "job_title": {
+        "value": "Job title",
+        "required": false  
+    },
+    "name_first": {
+        "value": "Terry",
+        "required": true  
+    },
+    "name_last": {
+        "value": "Bennett",
+        "required": true  
+    },
+    "name_middle": {
+        "value": "Middle name",
+        "required": false
+    },
+    "organization": {
+        "value": "Organization",
+        "required": false
+    },
+    "phone": {
+        "value": "+1.5052718568",
+        "required": true   
+    }
+}
